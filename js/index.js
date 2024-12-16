@@ -1,7 +1,7 @@
 // Prevent us from attempting to use variables
 // that are not declared
 "use strict"
-
+/*
 const two = 2;
 console.log(two);
 
@@ -22,3 +22,4 @@ console.log(dessert);
 
 dessert = "Sugar"
 console.log(dessert);
+*/
